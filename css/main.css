@@ -1,0 +1,64 @@
+.MainContent{
+	list-style: none;
+	margin: 100px 50px 100px 50px;
+	border-radius:20px;
+	padding: 50px;
+	overflow: hidden;
+}
+footer{
+	color:white;
+	background-color: #044687;
+	width: 100%;
+	padding: 10px 0 10px 0;
+	font-weight: bold;
+}
+footer a{
+	color:white;
+	text-decoration: underline;
+	background-color: #044687;
+	font-weight: normal;
+}
+footer a:hover{
+	text-decoration: none;
+}
+label, legend{
+	color: #044687;
+	font-weight: bold;
+}
+.Mensaje{
+	min-height:225px;
+}
+.contenedor{
+	padding-left:20px;
+	padding-right:20px; 
+}
+.table th{
+	text-align: center;
+	background-color: #044687;
+	color: white;
+}
+.table td{
+	text-align: center;
+}
+.Agregar{
+		font-weight: bold;
+}
+.Agregar:hover{
+		text-decoration: none;
+		color:#044687;
+}
+.accion{
+	margin-right: 5px;
+}
+.Muestra{
+	list-style: none;
+	font-size: 20px;
+	padding: 40px 0px 30px 0px;
+}
+.Muestra li{
+	color:black;
+	padding-bottom: 20px;
+}
+.Muestra li strong{
+	color: #044687;
+}
